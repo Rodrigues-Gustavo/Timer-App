@@ -39,11 +39,11 @@ export const History = () => {
                     )}
 
                     {cycle.interruptedDate && (
-                      <Status statusColor="red">Interrompido</Status>
+                      <Status statusColor="yellow">Interrompido</Status>
                     )}
 
                     {cycle.finishedDate && !cycle.interruptedDate && (
-                      <Status statusColor="yellow">Em andamento</Status>
+                      <Status statusColor="red">Em andamento</Status>
                     )}
                   </td>
                 </tr>
