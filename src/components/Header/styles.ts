@@ -26,4 +26,8 @@ export const HeaderContainer = styled.header`
       }
     }
   }
+
+  img {
+    color: #fff;
+  }
 `
