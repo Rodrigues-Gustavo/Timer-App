@@ -43,3 +43,12 @@ npm install
 ```tsx
 npm run dev
 ```
+
+<h1 id="contatos">My contacts</h1>
+
+#### To contact me:
+
+ <div>
+   <a href = "https://gustavorr001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gusta-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
