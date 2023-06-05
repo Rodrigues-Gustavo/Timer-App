@@ -34,13 +34,13 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 
 1. Clone this repo
 ```tsx
-git clone https://github.com/Rodrigues-Gustavo/.git
+git clone https://github.com/Rodrigues-Gustavo/timer/my-timer-app.git
 ```
 
 2. Go to the project folder
 ```tsx
-cd
-cd
+cd timer
+cd my-timer-app
 ```
 3. Install dependencies
 ```tsx
