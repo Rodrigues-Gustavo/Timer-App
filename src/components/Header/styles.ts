@@ -28,6 +28,6 @@ export const HeaderContainer = styled.header`
   }
 
   img {
-    color: #fff;
+    max-width: 100px;
   }
 `
