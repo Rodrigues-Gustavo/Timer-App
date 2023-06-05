@@ -1,9 +1,6 @@
 # Timer-App
 
-<div>
- <h3>TEST PROJECT</h3>
- <a href="https://timer-app-eta-five.vercel.app/">
-</div>
+ <h3>TEST PROJECT  <a href="https://timer-app-eta-five.vercel.app/"></h3>
 
 Welcome! This respostitory contains my solution for Rocketseat´s open source Frontend Challenge.
 
