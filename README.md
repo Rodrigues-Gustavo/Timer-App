@@ -1,11 +1,19 @@
 # Timer-App
 Welcome! This respostitory contains my solution for Rocketseat´s open source Frontend Challenge.
 
+ <a href="#about">• About</a>
+ </br>
+  <a href="#technologies">• Technologies</a>
+ </br>
+ <a href="#installation">• Installation</a>
+ </br>
+ <a href="#contacts">• contacts</a>
+
 
 ![image](https://github.com/Rodrigues-Gustavo/Timer-App/assets/102608021/b3b81a99-9fb8-4905-94db-d23101a3df29)
 ![image](https://github.com/Rodrigues-Gustavo/Timer-App/assets/102608021/592dae30-6708-4a72-9922-30c4d737bb96)
 
- # About
+ <h1 id="about"> 🌍 About </h1>
 
 The goal with this project was to better develop my Frontend Developer skills and solidify my knowledge in React and Typescript.
 </br></br>
@@ -16,13 +24,13 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 ✅save tasks to localstorage
 </br></br>
 
-# Technologies
+ <h1 id="technologies"> 🧠 Technologies</h1>
 
 <li>Use React.js and Typescript</li>
 <li>Create components with styled-components</li>
 <li>using react-hook-form and zod to validate the forms</li>
 
-# Installation
+ <h1 id="installation"> 🧑‍💻 Installation</h1>
 
 1. Clone this repo
 ```tsx
@@ -44,9 +52,9 @@ npm install
 npm run dev
 ```
 
-<h1 id="contatos">My contacts</h1>
+<h1 id="contacts"> 📩 My contacts</h1>
 
-#### To contact me:
+#### To contact me: 
 
  <div>
    <a href = "https://gustavorr001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
